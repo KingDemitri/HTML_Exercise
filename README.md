@@ -20,8 +20,8 @@ Steps are to be completed under the div with `id="exercise1"`
 
 Steps are to be completed under the div with `id="exercise2"`
 
-1. Create an **unordered list** element
-2. Create three **list item** elements nested inside of the **unordered list** that your just created
+1. Create an **unordered list** element - DONE
+2. Create three **list item** elements nested inside of the **unordered list** that your just created - DONE
 3. Create an **anchor** element inside of _each_ **list item** that you just created in your **unordered list**
 4. Each **anchor** element should link to the following:
    - The first **anchor** element should link to your _LinkedIn profile_
@@ -52,13 +52,13 @@ Steps are to be completed under the div with `id="exercise5"`
 
 1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
    - You will need to use
-     - **one main element**
-     - **three section elements**
-     - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
-     - **five anchor elements**
-     - **one footer element**
+     - **one main element**- DONE
+     - **three section elements** - DONE
+     - **one article element** - DONE
+     - **one header element** - DONE
+     - **two nav element** - DONE
+     - **two unordered list element** - DONE
+     - **five list item elements** - DONE
+     - **five anchor elements** - DONE
+     - **one footer element** - DONE
    - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
